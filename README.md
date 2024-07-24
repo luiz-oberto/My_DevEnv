@@ -10,10 +10,10 @@ Este repositório contém a descrição de como eu configuro o meu ambiente de d
 ## Em seguida, A configuração suprema do VSCode!
 Tendo seguido os primeiros passos para instalar as ferramentas que você vai precisar para programar em python, vamos agora configurar o VSCode para tornar nosso ambiente ainda mais agradável!
 ### Pesquise e instale as seguintes extensões:
-- python ( o da microsoft)
-- code runner
-- om dracula
-- material icon theme
+1. Python ( o da microsoft) 
+2. code runner
+3. om dracula
+4. material icon theme
 
 por fim copie o código de **settings_base.json** encontrado neste repositório e cole no seu **settings.json**, ou então aproveita que tá por aqui mesmo e copia daqui desse prompt:
 
@@ -30,3 +30,7 @@ por fim copie o código de **settings_base.json** encontrado neste repositório 
     "workbench.iconTheme": "material-icon-theme",
     "python.defaultInterpreterPath": "python",
 }
+~~~
+
+#### É isso aí meu mano, agora é só ser feliz!
+tá abençoado, meu fi! SHINE!
