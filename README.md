@@ -15,7 +15,7 @@ Tendo seguido os primeiros passos para instalar as ferramentas que você vai pre
 3. om dracula
 4. material icon theme
 
-por fim copie o código de **settings_base.json** encontrado neste repositório e cole no seu **settings.json**, ou então aproveita que tá por aqui mesmo e copia daqui desse prompt:
+Agora copie o código de **settings_base.json** encontrado neste repositório e cole no seu **settings.json**, ou então aproveita que tá por aqui mesmo e copia daqui desse prompt:
 
 ~~~json
 {
@@ -31,6 +31,23 @@ por fim copie o código de **settings_base.json** encontrado neste repositório 
     "python.defaultInterpreterPath": "python",
 }
 ~~~
+
+Outra coisa que lhe pode ser muito útil: atalhos! Pega essa configuração e coloque no keybinding.json
+~~~json
+[
+    {
+        "key": "ctrl+;",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+/",
+        "command": "-editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
+~~~
+
 
 #### É isso aí meu mano, agora é só ser feliz!
 tá abençoado, meu fi! SHINE!
