@@ -14,6 +14,7 @@ Tendo seguido os primeiros passos para instalar as ferramentas que você vai pre
 2. code runner
 3. om dracula
 4. material icon theme
+5. Live server ou five server (caso lide com desenvolvimmento front-end)
 
 Agora copie o código de **settings_base.json** encontrado neste repositório e cole no seu **settings.json**, ou então aproveita que tá por aqui mesmo e copia daqui desse prompt:
 
