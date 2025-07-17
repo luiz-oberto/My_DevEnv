@@ -3,8 +3,9 @@ Este repositório contém a descrição de como eu configuro o meu ambiente de d
 
 
 ## Primeiros passos :computer:
-#### Este passo a passo está sendo feito para o ubuntu 24.04 LTS, mas muitos comandos podem ser replicados no windows ou Mac
-- siga as intruções de instalação do professor Otávio Miranda do curso de python 3 que se encontra no seguinte link:
+#### Este passo a passo está sendo feito para o ubuntu 24.04 LTS, mas muitos comandos podem ser replicados no windows, Mac ou distors linux parecidas com Ubuntu
+- Para **Linux**:  Você pode baixar o arquivo setup-dv.sh e executá-lo msua máquina. Assim todo seu ambiente será configurado automaicamente.
+- caso prefira fazer as configurações manualmente siga as intruções de instalação do professor Otávio Miranda do curso de python 3 que se encontra no seguinte link:
 - https://gist.github.com/luiz-oberto/bcf532a8307e0487dccd1f337daefa64
 
 ## Em seguida, A configuração suprema do VSCode!
