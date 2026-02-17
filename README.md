@@ -7,6 +7,11 @@ Este repositório contém a descrição de como eu configuro o meu ambiente de d
 - Para **Linux**:  Você pode baixar o arquivo setup-dv.sh e executá-lo msua máquina. Assim todo seu ambiente será configurado automaicamente.
 - caso prefira fazer as configurações manualmente siga as intruções de instalação do professor Otávio Miranda do curso de python 3 que se encontra no seguinte link:
 - https://gist.github.com/luiz-oberto/bcf532a8307e0487dccd1f337daefa64
+- caso queira deixar o seu terminal com um visual parecido como o do Kali Linux depois de instalar o ZSH, você pode comentar o ZSH_THEME e acrescentar a seguinte linha:
+```
+PROMPT=$'%F{41}┌──(%F{255}%n㉿%m%F{41})%f-%F{41}[%F{255}%~%F{41}]%f\n%F{41}└─%F{255}$ %f'
+```
+- Para mais alterações pesquise por isso. 
 
 ## Em seguida, A configuração suprema do VSCode!
 Tendo seguido os primeiros passos para instalar as ferramentas que você vai precisar para programar em python, vamos agora configurar o VSCode para tornar nosso ambiente ainda mais agradável!
